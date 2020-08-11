@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a Software Engineere at [Revolut](https://www.revolut.com/).
+I'm a Software Engineer at [Revolut](https://www.revolut.com/).
 
 Check my [Linkedin profile](https://www.linkedin.com/in/yvoderatskyi/) or [Resume](https://github.com/yvoderatskyi/resume/blob/master/resume.pdf) for more info.
 
