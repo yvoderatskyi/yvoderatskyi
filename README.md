@@ -2,7 +2,7 @@
 
 I'm a Software Engineere at [Revolut](https://www.revolut.com/).
 
-Check my [Linkedin profile](https://www.linkedin.com/in/yvoderatskyi/) for more info.
+Check my [Linkedin profile](https://www.linkedin.com/in/yvoderatskyi/) or [Resume](https://github.com/yvoderatskyi/resume/blob/master/resume.pdf) for more info.
 
 <!--
 **yvoderatskyi/yvoderatskyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
